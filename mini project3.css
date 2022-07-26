@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.box {
+    color: #323f4b;
+    padding: 20px;
+    background-color: #f6c56e;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    margin-top: 570px;
+}
+
+.button {
+    background-color: #ffffff;
+    border-width: 0px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 36px;
+    width: 140px;
+    padding: 7px;
+    text-align: center;
+    font-family: Roboto;
+    color: #323f4b;
+
+}
+
+.hd {
+    font-family: Bree Serif;
+    text-align: left;
+    color: #323f4b;
+}
+
+.p {
+    font-family: Roboto;
+    color: #323f4b;
+
+}
